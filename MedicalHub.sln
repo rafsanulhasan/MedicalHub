@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalHub.App.Web", "MedicalHub.App.Web\MedicalHub.App.Web.csproj", "{0C745AB8-3619-48FE-A241-B8FCAFAF480B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C745AB8-3619-48FE-A241-B8FCAFAF480B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C745AB8-3619-48FE-A241-B8FCAFAF480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C745AB8-3619-48FE-A241-B8FCAFAF480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C745AB8-3619-48FE-A241-B8FCAFAF480B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6AAE47-9291-46AF-80EA-45EB0B86191C}
+	EndGlobalSection
+EndGlobal
